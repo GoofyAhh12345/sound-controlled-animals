@@ -1,0 +1,29 @@
+body{
+background-color: aquamarine;
+font-family: "Reddit Sans Condensed", sans-serif;
+}
+header{
+    background-color: aqua;
+    color: crimson;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    letter-spacing:3px;
+    font-size: larger;
+}
+btn{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    width: 45px;
+    font-weight: 20px;
+    letter-spacing:3px ;
+}
+copy_right_footer{
+    background-color: brown;
+    color: darkgray;
+    max-width: fit-content;
+    font-size: 10px;
+    line-height: 10px;
+    text-shadow: 10px;
+}
